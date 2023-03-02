@@ -13,4 +13,5 @@ Check out my Data Analytics projects that I worked on using datasets I found on 
 - Creating Dashboards (Tableau)
 - Choropleth Maps (Tableau)
 - Interactive Dynamic Visualizations (Tableau)
+- Data Stories (Tableau)
 - Data Cleansing / Data Scrubbing (SQL)
