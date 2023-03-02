@@ -6,3 +6,11 @@ Check out my Data Analytics projects that I worked on using datasets I found on 
 
 - SQL (Microsoft SQL Server Management Studio x Microsoft SQL Server)
 - Tableau
+
+## Skills demonstrated in projects so far
+
+- Data Exploration (SQL)
+- Creating Dashboards (Tableau)
+- Choropleth Maps (Tableau)
+- Interactive Dynamic Visualizations (Tableau)
+- Data Cleansing / Data Scrubbing (SQL)
