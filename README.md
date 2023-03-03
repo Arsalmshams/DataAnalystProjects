@@ -15,4 +15,6 @@ Check out my Data Analytics projects that I worked on using datasets I found on 
 - Choropleth Maps (Tableau)
 - Interactive Dynamic Visualizations (Tableau)
 - Automated Insights / Data Stories (Tableau)
-- Data Cleansing / Data Scrubbing (SQL)
+- Data Cleansing / Data Scrubbing (SQL + Python)
+- Correlations and Matrices (Python)
+- Scatterplots, Regplots, Heatmaps (Python)
