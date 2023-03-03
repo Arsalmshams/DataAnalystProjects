@@ -6,7 +6,7 @@ Check out my Data Analytics projects that I worked on using datasets I found on 
 
 - SQL (Microsoft SQL Server Management Studio x Microsoft SQL Server)
 - Tableau
-- Python (Pandas, Matplotlib, Numpy, Plotly, Seaborn)
+- Python (Pandas, Matplotlib, Numpy, Plotly & Cufflinks, Seaborn, BeautifulSoup, SMTPLib)
 
 ## Skills demonstrated in projects so far
 
@@ -18,3 +18,4 @@ Check out my Data Analytics projects that I worked on using datasets I found on 
 - Data Cleansing / Data Scrubbing (SQL + Python)
 - Correlations and Matrices (Python)
 - Scatterplots, Regplots, Heatmaps (Python)
+- Web Scraping from HTML (Python)
